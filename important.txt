@@ -1,0 +1,2 @@
+1) vue-clickaway need upgrate to vue3: https://github.com/simplesmiler/vue-clickaway/pull/52/files
+2) If vue exits with error 126: run: "sudo chmod -R a+x node_modules"
